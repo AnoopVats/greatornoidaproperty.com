@@ -8,6 +8,6 @@ FLAT Greater Noida
 <li><cirle> 9289510611</cirle></li>
 <li> 8527689374
 </li>
-<li>anoopvats1999@gmail.com
+<li>anoopvats1999@gmail.com </li>
 </body>
 </html>
