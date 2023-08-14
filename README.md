@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>FLAT Greater Noida</title>
+<title> FLAT Greater Noida </title>
 </head>
 <body>
 <centre><img src="./2BHK FLAT Greater Noida_files/flat 2 bhk.jpg" align="BOTTOM" height="200" weight="200">
