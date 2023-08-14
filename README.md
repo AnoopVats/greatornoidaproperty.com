@@ -1,6 +1,6 @@
 <html>
 <head> 
-<title> FLAT Greater Noida </title>
+FLAT Greater Noida
 </head>
 <body>
 <h1>2 BHK FLAT FOR SALE AND RENT</h1>
